@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning DSA in Java.
+- 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me email- shubhamufp@gmail.com .
 - 😄 Pronouns: Him
