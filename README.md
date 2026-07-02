@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shubham.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Machine learning.
-- I've a interest in java Backend too.
-- 💞️ I’m looking to collaborate on nothing.
+- 👀 I’m a java backend developer.
+- 🌱 I’m currently learning Ai in java.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me email- shubhamufp@gmail.com .
 - 😄 Pronouns: Him
 
